@@ -1,0 +1,81 @@
+.first-part {
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 15px;
+  width: 350px;
+  height: 550px;
+  background-color: rgb(247, 247, 247);
+  margin: auto;
+  margin-top: 25px;
+  box-shadow: 20px;
+  text-align: center;
+}
+.second-part {
+  border: 1px dashed rgb(128, 128, 128);
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.container {
+  border: 1px solid blue;
+  /* border-radius: 10px; */
+  width: 400px;
+  height: 600px;
+  background-color: rgb(40, 69, 96);
+}
+/* .box{
+  width: 400px;
+  height: 25px;
+} */
+/* .card{
+  width: 200px;
+  height: 25px;
+} */
+.camera-icon {
+  width: 80px;
+  margin-top: 20px;
+  background: white;
+}
+.column {
+  border: 1px solid black;
+  /* border-radius: 20px; */
+  width: 300px;
+  height: 470px;
+  margin: auto;
+  background-color: rgb(129, 76, 178);
+}
+.design-1 {
+  width: 230px;
+  height: 30px;
+  border-radius: 5px;
+}
+.design-2 {
+  width: 155px;
+  height: 30px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+.design-3 {
+  width: 230px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: black;
+  color: rgb(199, 120, 120);
+  font-size: 15px;
+}
+#code {
+  width: 65px;
+  height: 33px;
+  border-radius: 5px;
+  margin-right: 10px;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+}
+.countryCode {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
